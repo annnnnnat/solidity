@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+Some of the contracts functions are changed only for testing pusposes. The originals are in the other github repository:
+https://github.com/annnnnnat/contractsFixes
